@@ -1,8 +1,8 @@
 class Katagocoreml < Formula
   desc "Convert KataGo neural networks to Core ML format"
   homepage "https://github.com/chinchangyang/katagocoreml-cpp"
-  url "https://github.com/chinchangyang/katagocoreml-cpp/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "33110f4fb1cf3e1023644bfd57ca9963dbbc5aa1d8433d896fc76a5868097b26"
+  url "https://github.com/chinchangyang/katagocoreml-cpp/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "9b6822b3cb424e8ee6389db9417542ccf05874518360cb3a57660c1d0d670270"
   license "BSD-3-Clause"
 
   depends_on "cmake" => :build
